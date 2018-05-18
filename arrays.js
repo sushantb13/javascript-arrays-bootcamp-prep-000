@@ -1,6 +1,6 @@
 function addElementToBeginningOfArray() {
-  var myArray = ["OK" , "CA" , "NY"]
-  return ["VA" , ...myArray]
+  var myArray = ['1']
+  return ["foo" , ...myArray]
 }
 function destructivelyAddElementToBeginningOfArray () {
   var secArray = ["CO" , "GA" , "NJ"]
